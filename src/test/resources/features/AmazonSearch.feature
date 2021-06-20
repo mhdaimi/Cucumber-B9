@@ -13,4 +13,4 @@ Examples:
 | mobiles					| Amazon.in : mobiles |
 | laptop					| Amazon.in : laptop |
 | washing machine	| Amazon.in : washing machine |
-| books						| Amazon.in : books |
+| books						| Amazon.in : book |
